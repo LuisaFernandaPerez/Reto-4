@@ -66,9 +66,12 @@ class _listarState extends State<listar> {
                     ));
                   },
                 )
-              : Center(
-                  child: CircularProgressIndicator(),
-                ),
+               : Center(
+                  child: Text(
+                  'NO EXISTEN DATOS DE LOCALIZACIÓN PARA MOSTRAR',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(fontSize: 40),
+                )),
         ));
   }
 }
