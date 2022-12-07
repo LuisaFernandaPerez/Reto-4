@@ -23,3 +23,5 @@ El proyecto consiste en obtener y mostrar la Localización del dispositivo del u
 ## Demo del proyecto
 
 PENDIENTE
+
+<img src= "https://github.com/LuisaFernandaPerez/Reto-3-Chat/blob/main/Reto-3-Chat.gif">
