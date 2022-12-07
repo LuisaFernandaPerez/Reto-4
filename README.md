@@ -24,4 +24,4 @@ El proyecto consiste en obtener y mostrar la Localización del dispositivo del u
 
 PENDIENTE
 
-<img src= "https://github.com/LuisaFernandaPerez/Reto-3-Chat/blob/main/Reto-3-Chat.gif">
+<img src= "https://github.com/LuisaFernandaPerez/Reto-3-Chat/blob/main/Reto-3-Chat.gif" height="500">
